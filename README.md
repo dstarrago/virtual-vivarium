@@ -1,6 +1,6 @@
 # artificial-vivarium
 
-A simulated playground where artificial creatures grow and reproduce
+A simulated playground where artificial creatures grow and reproduce in order to test the principles of intelligent behavior
 
 This was an Artificial Life project developed in 1998 in Borland Delphi for Microsoft Windows. The component package SimToolsPackage includes components that allow visual design of the arena where the simulation takes places. The visual components are 
 - Creature: artificial life entity
