@@ -1,4 +1,4 @@
-# artificial-vivarium
+# virtual-vivarium
 
 A virtual playground for artificial agents that grow, reproduce and evolve in order to test complex behavior emergence principles
 
