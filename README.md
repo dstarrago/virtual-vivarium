@@ -19,3 +19,5 @@ In the simulated world, each object has position, size, and image. The creatures
 - Genetic system: contains a representation of the creature's genotype, allowing adaptation and evolution through mutation and crossover.
 
 Even though the creature is quite dummy and the nervous system does nothing so far, this program was designed as a framework to experiment intelligent behaviours on simple creatures living in a simplified world.
+
+Sample video of the virtual vivarium: https://www.youtube.com/watch?v=9nQVibwJ0Cs
